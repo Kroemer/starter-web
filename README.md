@@ -6,3 +6,5 @@ more add char
 # testotest
 add
 totototo
+
+COPYRIGHT BG DU 25
