@@ -105,3 +105,6 @@ dist
 
 #log file
 .log
+
+#orig file
+*.orig
